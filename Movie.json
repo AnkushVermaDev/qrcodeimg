@@ -20,7 +20,6 @@
     "imdbID": "tt0499549",
     "Type": "movie",
     "Response": "True"
-    
   },
   {
     "Title": "I Am Legend",
@@ -36,14 +35,13 @@
     "Language": "English",
     "Country": "USA",
     "Awards": "9 wins & 21 nominations.",
-    "Poster":  "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0MTI2NjMzMzFeQTJeQWpwZ15BbWU2MDMwNDc3OA@@._V1_.jpg",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0MTI2NjMzMzFeQTJeQWpwZ15BbWU2MDMwNDc3OA@@._V1_.jpg",
     "Metascore": "65",
     "imdbRating": "7.2",
     "imdbVotes": "533,874",
     "imdbID": "tt0480249",
     "Type": "movie",
     "Response": "True"
-    
   },
   {
     "Title": "300",
@@ -59,83 +57,13 @@
     "Language": "English",
     "Country": "USA",
     "Awards": "16 wins & 42 nominations.",
-    "Poster":   "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwNTgyNTMzNF5BMl5BanBnXkFtZTcwNDA2NTIyMw@@._V1_SX1777_CR0,0,1777,935_AL_.jpg",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwNTgyNTMzNF5BMl5BanBnXkFtZTcwNDA2NTIyMw@@._V1_SX1777_CR0,0,1777,935_AL_.jpg",
     "Metascore": "52",
     "imdbRating": "7.7",
     "imdbVotes": "611,046",
     "imdbID": "tt0416449",
     "Type": "movie",
     "Response": "True"
-    
-  },
-  {
-    "Title": "The Avengers",
-    "Year": "2012",
-    "Rated": "PG-13",
-    "Released": "04 May 2012",
-    "Runtime": "143 min",
-    "Genre": "Action, Sci-Fi, Thriller",
-    "Director": "Joss Whedon",
-    "Writer": "Joss Whedon (screenplay), Zak Penn (story), Joss Whedon (story)",
-    "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
-    "Plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
-    "Language": "English, Russian",
-    "Country": "USA",
-    "Awards": "Nominated for 1 Oscar. Another 34 wins & 75 nominations.",
-    "Poster":      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3MTY4NDk4Nl5BMl5BanBnXkFtZTgwNjc0MzQ4MDE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-    "Metascore": "69",
-    "imdbRating": "8.1",
-    "imdbVotes": "1,003,301",
-    "imdbID": "tt0848228",
-    "Type": "movie",
-    "Response": "True"
-   
-  },
-  {
-    "Title": "The Wolf of Wall Street",
-    "Year": "2013",
-    "Rated": "R",
-    "Released": "25 Dec 2013",
-    "Runtime": "180 min",
-    "Genre": "Biography, Comedy, Crime",
-    "Director": "Martin Scorsese",
-    "Writer": "Terence Winter (screenplay), Jordan Belfort (book)",
-    "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",
-    "Plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
-    "Language": "English, French",
-    "Country": "USA",
-    "Awards": "Nominated for 5 Oscars. Another 35 wins & 154 nominations.",
-    "Poster":  "https://images-na.ssl-images-amazon.com/images/M/MV5BMzQ5ODE2MzEwM15BMl5BanBnXkFtZTgwMTMyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-    "Metascore": "75",
-    "imdbRating": "8.2",
-    "imdbVotes": "786,985",
-    "imdbID": "tt0993846",
-    "Type": "movie",
-    "Response": "True"
-   
-  },
-  {
-    "Title": "Interstellar",
-    "Year": "2014",
-    "Rated": "PG-13",
-    "Released": "07 Nov 2014",
-    "Runtime": "169 min",
-    "Genre": "Adventure, Drama, Sci-Fi",
-    "Director": "Christopher Nolan",
-    "Writer": "Jonathan Nolan, Christopher Nolan",
-    "Actors": "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow",
-    "Plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
-    "Language": "English",
-    "Country": "USA, UK",
-    "Awards": "Won 1 Oscar. Another 39 wins & 134 nominations.",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg",
-    "Metascore": "74",
-    "imdbRating": "8.6",
-    "imdbVotes": "937,412",
-    "imdbID": "tt0816692",
-    "Type": "movie",
-    "Response": "True"
-    
   },
   {
     "Title": "Game of Thrones",
@@ -159,6 +87,5 @@
     "Type": "series",
     "totalSeasons": "7",
     "Response": "True"
-    
-  },
+  }
 ]
